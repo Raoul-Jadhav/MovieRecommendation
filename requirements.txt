@@ -17,7 +17,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 mccabe==0.6.1
 mkl-fft==1.0.6
-mkl-random==1.0.2
+mkl-random
 mkl-service==2.3.0
 parso==0.7.0
 pathtools==0.1.2

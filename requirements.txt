@@ -3,29 +3,19 @@ appdirs==1.4.4
 argh==0.26.2
 async-generator==1.10
 atomicwrites==1.4.0
-attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
-autopep8 @ file:///tmp/build/80754af9/autopep8_1596578164842/work
-Babel @ file:///tmp/build/80754af9/babel_1607110387436/work
 backcall==0.2.0
-bcrypt @ file:///C:/ci/bcrypt_1607022693089/work
 black==19.3b0
-bleach @ file:///tmp/build/80754af9/bleach_1600439572647/work
 brotlipy==0.7.0
 certifi==2020.12.5
-cffi @ file:///C:/ci/cffi_1606237165371/work
-chardet @ file:///C:/ci/chardet_1607706937985/work
 click==7.1.2
 cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1598884132938/work
 colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
-cryptography @ file:///C:/ci/cryptography_1607618721363/work
 decorator==4.4.2
 defusedxml==0.6.0
 diff-match-patch @ file:///tmp/build/80754af9/diff-match-patch_1594828741838/work
-docutils @ file:///C:/ci/docutils_1607039266901/work
 entrypoints==0.3
 flake8 @ file:///tmp/build/80754af9/flake8_1601911421857/work
 Flask==1.1.2
-future @ file:///C:/ci/future_1607568713721/work
 idna @ file:///tmp/build/80754af9/idna_1593446292537/work
 imagesize==1.2.0
 importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work

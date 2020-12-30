@@ -1,7 +1,6 @@
 alabaster==0.7.12
 appdirs==1.4.4
 argh==0.26.2
-astroid @ file:///C:/b/work
 async-generator==1.10
 atomicwrites==1.4.0
 attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work

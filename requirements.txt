@@ -1,7 +1,6 @@
 alabaster==0.7.12
 appdirs==1.4.4
 argh==0.26.2
-argon2-cffi @ file:///C:/ci/argon2-cffi_1607022552316/work
 astroid @ file:///C:/b/work
 async-generator==1.10
 atomicwrites==1.4.0

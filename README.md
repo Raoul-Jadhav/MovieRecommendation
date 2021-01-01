@@ -10,8 +10,4 @@
 <img src="/static/img/banner/FlowDig.png" alt="" width="500" height="400">
 
 # Table of Contents
- static
- templates
- app.py
- Procfile
- requirements.txt
+<img src="/Screenshot (75).png" alt="" width="500" height="300">

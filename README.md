@@ -13,6 +13,6 @@
 <img src="/Screenshot (75).png" alt="" width="250" height="150">
 
 # Screens
-<img src="/Screen1.png" alt="" width="1200" height="600">
+<img src="/Screen1.png" alt="" width="1200" height="450">
 <img src="/Screen2.png" alt="" width="1200" height="500">
 <img src="/Screen3.png" alt="" width="1200" height="500">

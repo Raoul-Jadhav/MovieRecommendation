@@ -7,3 +7,4 @@
 <h4>This type of filter does not involve other users if not ourselves. Based on what we like, the algorithm will simply pick items with similar content to recommend us.</h4>
 <h4>In this case there will be less diversity in the recommendations For example, Netflix recommends us the similar movies to the movie we recently watched.Similarly, Youtube also recommends us similar videos to the videos in our watch history.</h4>
 
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">

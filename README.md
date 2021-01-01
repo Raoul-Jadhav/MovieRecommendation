@@ -10,4 +10,4 @@
 <img src="/static/img/banner/FlowDig.png" alt="" width="500" height="400">
 
 # Table of Contents
-<img src="/Screenshot (75).png" alt="" width="500" height="150">
+<img src="/Screenshot (75).png" alt="" width="300" height="150">

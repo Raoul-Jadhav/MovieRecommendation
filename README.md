@@ -1,3 +1,4 @@
 # Building a Content Based Movie Recommendation System
 
-<h4>What is a Recommendation System ? </h4>
+<h2>What is a Recommendation System ? </h2>
+<h4>At some point each one of us must have wondered where all the recommendations that Netflix, Amazon, Google give us, come from. We often rate products on the internet and all the preferences we express and data we share (explicitly or not), are used by recommender systems to generate, in fact, recommendations. The two main types of recommender systems are either collaborative or content-based filters: these two names are pretty self-explanatory, but let’s look at a couple of examples to better understand the differences between them. I will use movies as an example (because if I could, I would be watching movies/tv shows all the time), but keep in mind that this type of process can be applied for any kind of product you watch, listen to, buy, and so on. </h4>

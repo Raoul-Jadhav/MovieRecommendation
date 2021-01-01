@@ -8,3 +8,10 @@
 <h4>In this case there will be less diversity in the recommendations For example, Netflix recommends us the similar movies to the movie we recently watched.Similarly, Youtube also recommends us similar videos to the videos in our watch history.</h4>
 
 <img src="/static/img/banner/FlowDig.png" alt="" width="500" height="400">
+
+# Table of Contents
+ static
+ templates
+ app.py
+ Procfile
+ requirements.txt

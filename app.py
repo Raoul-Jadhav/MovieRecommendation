@@ -17,7 +17,7 @@ import os
 app = Flask(__name__)
 
 
-credits = pd.read_csv('../archive/tmdb_5000_credits.csv')
+credits = pd.read_csv('archive/tmdb_5000_credits.csv')
 credits.head()
 
 

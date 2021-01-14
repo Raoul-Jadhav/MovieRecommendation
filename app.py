@@ -100,9 +100,9 @@ def predict():
     try:
      output,overview = recommend(text)
     except:
-        return render_template('index1.html',notfound='Sorry, the movie not found in our database..!  Try another movie with original title.')
+        return render_template('index1.html',notfound='Sorry, the movie not found in our database..!  Try with original movie title.')
     if output is None:
-       return render_template('index1.html',notfound='Sorry, the movie not found in our database..!  Try another movie with original title.')
+       return render_template('index1.html',notfound='Sorry, the movie not found in our database..!  Try with original movie title.')
     #resultlist=''
     overviewlist=[]
     resultlist=[]

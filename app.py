@@ -17,14 +17,14 @@ import os
 app = Flask(__name__)
 
 
-credits = pd.read_csv('/archive/tmdb_5000_credits.csv')
+credits = pd.read_csv('../archive/tmdb_5000_credits.csv')
 credits.head()
 
 
 credits = credits.rename(index=str, columns={"movie_id": "id"})
 credits.head()
 
-movies_df = pd.read_csv('/archive/tmdb_5000_movies.csv')
+movies_df = pd.read_csv('archive/tmdb_5000_movies.csv')
 movies_df_merge = movies_df.merge(credits, on='id')
 movies_df_merge.head() 
 
